@@ -21,4 +21,4 @@ Website: http://jesuitroboticsnola.org/
 Rookie year: 2012
 ```
 ## Known bugs
-[ ] Entering any out-of-range or invalid team numbers pulls information for FTC 0001 Team Unlimited
+- [ ] Entering any out-of-range or invalid team numbers pulls information for FTC 0001 Team Unlimited
